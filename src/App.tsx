@@ -5,13 +5,6 @@ import { Virtuoso } from "react-virtuoso";
 import { FixedSizeList as List } from "react-window";
 import AutoSizer from "react-virtualized-auto-sizer/dist/declarations/src";
 
-/**
- * react-window 참고문헌
- * # https://ridicorp.com/story/ridi-markdown-improvements/#02_1_eliments_optimization
- *
- * react-virtuoso
- */
-
 type TodoType = {
   userId: number;
   title: string;
