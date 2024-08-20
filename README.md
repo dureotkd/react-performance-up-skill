@@ -8,4 +8,6 @@
 
 그 중 유명한 라이브러리는 `react-window` 와 `react-virtuoso`입니다
 
+![image](https://github.com/user-attachments/assets/9325624d-1279-452d-b0df-684351b86494)
+
 Learn More [Document](https://ridicorp.com/story/ridi-markdown-improvements/#02_1_eliments_optimization)
